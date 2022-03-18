@@ -1,0 +1,10 @@
+:root {
+    white: #fff;
+    black: #000;
+    azul:  rgb(32, 169, 233) 
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
