@@ -1,10 +1,33 @@
 :root {
     white: #fff;
     black: #000;
-    azul:  rgb(32, 169, 233) 
+    azul:  rgb(32, 169, 233)
 }
 
 
 body {
     font-family: 'Open Sans', sans-serif;
+    background: #000;
 }
+
+input#Mensaje1.form-control {
+    height: 10rem;
+}
+button.btn {
+    
+    background: rgb(32, 169, 233); 
+    
+  }
+  p.bg {
+    background: rgb(32, 169, 233); 
+  }
+  p.bg-2 {
+    background: rgb(32, 169, 233); 
+  }
+
+  p.bg-3 {
+    background: rgb(32, 169, 233); 
+  }
+
+
+
